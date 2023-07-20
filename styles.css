@@ -1,0 +1,46 @@
+body{
+    background:black;
+}
+.container{
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+}
+
+.post{
+    background:white;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+.agrupar{
+    display: flex;
+}
+
+.post-header i{
+    font-size: 45px;
+}
+
+div.post i{
+    padding: 10px;
+}
+div.post p{
+    padding: 10px;
+
+}
+.texto p{
+    margin-top: 0;
+}
+.post img{
+    width: 100%;
+}
+.iconos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconos i{
+    font-size: 35px;
+}
+
